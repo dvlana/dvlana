@@ -1,2 +1,0 @@
-- 👋 Oi sou a @dvlana
-- 👀 Tenho interesse em ingressar na programação
